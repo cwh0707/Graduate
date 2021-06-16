@@ -1,0 +1,8 @@
+.DS_Store
+data
+*.zip
+*.pyc
+.idea
+*.png
+*.h5
+*.txt
